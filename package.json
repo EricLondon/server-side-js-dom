@@ -1,0 +1,14 @@
+{
+  "name": "server-side-js-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric London",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^20.0.1"
+  }
+}
