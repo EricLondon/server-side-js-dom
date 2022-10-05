@@ -1,3 +1,10 @@
+//
+// Usage:
+//
+// npm install
+// node main.js
+//
+
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
