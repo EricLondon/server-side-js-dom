@@ -9,6 +9,6 @@
   "author": "Eric London",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^24.1.1"
+    "jsdom": "^25.0.0"
   }
 }
